@@ -1,0 +1,16 @@
+.login{
+  width: 25%;
+  height: 40%;
+  border-top: 10px solid #017374;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(to top, white, #D8DCD6);
+}
+.allBody{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
